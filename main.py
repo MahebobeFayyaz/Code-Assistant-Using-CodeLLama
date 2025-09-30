@@ -3,7 +3,7 @@ import requests
 import json
 
 # Server URL
-URL = "http://localhost:11434/api/generate"
+URL = "https://asthmatically-unpersonal-kara.ngrok-free.dev/api/generate"
 HEADERS = {"Content-Type": "application/json"}
 
 # Maintain chat history
